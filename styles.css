@@ -1,0 +1,13 @@
+.posts-box {
+    display: flex;
+    flex-wrap: wrap;
+    grid-row-gap: 30px;
+    grid-column-gap: 20px;
+}
+
+.post {
+    display: flex;
+    flex-direction: column;
+    width: 18%;
+
+}
